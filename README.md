@@ -1,4 +1,4 @@
-<h1 align="center" >Hi 👋, I'm Satyam Sawant</h1>
+<h1 align="center" font-family="Arial" >Hi 👋, I'm Satyam Sawant</h1>
 <h1 align="center">Freelancer Full Stack Developer from India</h1><br><br>
 
 # 💫 About Me:
