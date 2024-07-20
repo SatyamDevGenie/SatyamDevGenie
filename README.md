@@ -24,7 +24,7 @@
 ### ✍️ Random Dev Quote
 ![](https://camo.githubusercontent.com/932e26dbf376364533513d7ffa2b27d129e73553aef03a5db592a1a43e3da5c9/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b)
 
-<br>
+
 
 ### 😂 Random Dev Meme
 <img src='https://i.pinimg.com/736x/9d/d5/52/9dd552fda78b7f923c63e082cee4ccb9.jpg' style="height: 300px; width: 500px"/>
