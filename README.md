@@ -1,5 +1,5 @@
 <h1 align="center" font-family="Arial Black" >Hi 👋, I'm Satyam Sawant</h1><br>
-<h3 align="center font-family="sans-serif">Freelancer | MERN Specialist | Javascript | Java | Helping businesses thrive with custom full stack web development & transforming ideas into scalable web applications</h3><br>
+<h3 align="center font-family="sans-serif">Freelancer | MERN Specialist | Javascript | Java | Python | Helping businesses thrive with custom full stack web development & transforming ideas into scalable web applications</h3><br>
 <h5 font-family="sans-serif">I partner with businesses to create dynamic, scalable, and user-centric web applications, leveraging my expertise in both front-end and back-end development. From startups to established companies, I deliver customized web solutions designed to meet your unique needs, helping to bring your projects to life and accelerate your digital growth. Currently, I am engaged in a diverse range of projects, spanning web, desktop, and mobile application development.</h5><br>
 
 # 💫 About Me:
