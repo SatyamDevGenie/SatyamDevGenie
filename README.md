@@ -25,6 +25,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=SatyamDevGenie&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SatyamDevGenie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -33,14 +35,6 @@
 
 ### 😂 Random Dev Meme
 <img src='https://i.pinimg.com/736x/9d/d5/52/9dd552fda78b7f923c63e082cee4ccb9.jpg' style="height: 300px; width: 500px"/>
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SatyamDevGenie&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=SatyamDevGenie&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
 
