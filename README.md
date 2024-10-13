@@ -1,5 +1,5 @@
 <h1 align="center" font-family="Arial Black" >Hi 👋, I'm Satyam Sawant</h1>
-<h1 align="center">Freelancer - Mern Specialist Developer from India</h1><br><br>
+<h1 align="center">Freelance Full Stack Developer from India</h1><br><br>
 
 # 💫 About Me:
 🥋 I'm very Passionate For Programming and Developement .I'm always ready to learn new things with Effective ideas.<br><br>💼 Completed 5 months of Full Stack Developer Training @ RST Forum<br><br>👨‍💻 All of my projects are available at Here<br><br>💬 Ask me about React, JavaScript, Full Stack<br><br>👯 Currently i am working as a freelancer<br><br>⚡ For Fun Karate , Code , Travel<br><br> 👨‍💻 All of my projects are available at [Here](https://github.com/SatyamDevGenie) <br><br>  📫 How to reach me *satyamsawant54@gmail.com*<br><br>  📄 Check My [Resume](https://drive.google.com/file/d/1Ispj5RvIOyfNgsE08i9NMMcOA7js_4Sj/view) <br><br> 📄 Know about my Profile [Portfolio](https://ss-dev-portfolio.netlify.app) <br><br> ⚡ Fun fact *I am Funny, I guess( My humour is dead )*
