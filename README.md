@@ -17,15 +17,15 @@
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SatyamSawant20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SatyamSawant20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSawant20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SatyamDevGenie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SatyamDevGenie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamDevGenie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SatyamSawant20&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SatyamDevGenie&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab0012&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamDevGenie&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://camo.githubusercontent.com/932e26dbf376364533513d7ffa2b27d129e73553aef03a5db592a1a43e3da5c9/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b)
