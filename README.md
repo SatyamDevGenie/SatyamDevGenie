@@ -40,7 +40,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SatyamDevGenie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SatyamDevGenie&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=satyam&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 
