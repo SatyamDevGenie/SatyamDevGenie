@@ -7,8 +7,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Passionate+Full+Stack+Builder+%F0%9F%94%A5;React+%7C+Node+%7C+MongoDB+%7C+Redux+Toolkit;Turning+Ideas+into+Real+Products!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;MERN+Stack+Specialist;I+Love+Building+Web+Apps" alt="Typing SVG" />
 </p>
+
 
 ---
 
