@@ -28,7 +28,7 @@ From startup MVPs to production-scale systems — I build performant, modern app
 - 📂 [**All My Projects**](https://github.com/SatyamDevGenie)  
 - 📫 **Reach out:** `satyamsawant54@gmail.com`  
 - 🧾 [**View Resume**](https://drive.google.com/file/d/1Ispj5RvIOyfNgsE08i9NMMcOA7js_4Sj/view)  
-- 🌍 [**Visit Portfolio**](https://ss-dev-portfolio.netlify.app)  
+- 🌍 [**Visit Portfolio**](https://ss-dev-portfolio.netlify.app/)  
 - ⚡ Fun fact: Karate 🥋 + Code 👨‍💻 + Travel ✈️ = Me  
 
 ---
