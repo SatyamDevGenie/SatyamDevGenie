@@ -1,9 +1,9 @@
-<h1 align="center" style="font-family: 'Segoe UI Black', sans-serif;">
-  🚀 Hey there, I'm <span style="color:#00BFFF;">Satyam Sawant</span> 👋
+<h1 align="center">
+  🚀 Hey there, I'm <span style="color:#00BFFF;"><b>Satyam Sawant</b></span> 👋
 </h1>
 
-<h3 align="center" style="font-family: 'Segoe UI', sans-serif;">
-  👨‍💻 Freelance Web Developer | MERN Stack Specialist | Full Stack Engineer
+<h3 align="center">
+  👨‍💻 <b>Freelance Web Developer</b> | <b>MERN Stack Specialist</b> | <b>Full Stack Engineer</b>
 </h3>
 
 <p align="center">
@@ -13,11 +13,12 @@
 ---
 
 <h4 align="center">
-  💡 I transform complex challenges into elegant digital solutions.<br/>
-  🚀 From MVPs to scalable products — I build fast, secure, and modern web apps.
+  💡 <i>I transform complex challenges into elegant digital solutions.</i><br/>
+  🚀 <i>From MVPs to scalable products — I build fast, secure, and modern web apps.</i>
 </h4>
 
 ---
+
 
 ## 👨‍🔧 About Me
 
