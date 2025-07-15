@@ -1,6 +1,6 @@
-# 🚀 Hey there, I'm **<span style="color:#00BFFF;">Satyam Sawant</span>** 👋  
+<h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF;">Satyam Sawant</span> 👋</h1>
 
-### 👨‍💻 **Freelance Web Developer | MERN Stack Specialist | Full Stack Engineer**  
+<h3 align="center">👨‍💻 Freelance Web Developer | MERN Stack Specialist | Full Stack Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Solutions" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ---
 
-## 💡 *Transforming ideas into scalable, modern web solutions.*
+<h3 align="center">💡 Transforming ideas into scalable, modern web solutions.</h3>
 
 ---
 
