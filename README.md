@@ -1,6 +1,6 @@
 
 
-<!-- <h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF;">Satyam Sawant</span> 👋</h1>
+<h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF;">Satyam Sawant</span> 👋</h1>
 
 <h3 align="center">👨‍💻 Freelance Web Developer | MERN Stack Specialist | Full Stack Engineer</h3>
 
