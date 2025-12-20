@@ -65,13 +65,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyamDevGenie&theme=radical&hide_border=true" height="160"/>
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SatyamDevGenie&theme=onedark&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
