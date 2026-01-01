@@ -22,15 +22,15 @@
 
 💡 I transform **ideas into scalable, high-performance web applications** using modern UI and robust backend architecture.
 
-- 🔭 Freelance Developer (Upwork & Independent Clients)
-- 🎓 Full Stack Training from **RST Forum**
-- 🧠 2+ Years Experience in **React & MERN Stack**
-- ⚡ Passionate about **Clean Code & System Design**
-- 🥋 Karate | 🌍 Travel | 👨‍💻 Code
-- 📧 Email: **satyamsawant54@gmail.com**
+- 🔭 Freelance Developer (Upwork & Independent Clients)  
+- 🎓 Full Stack Training from **RST Forum**  
+- 🧠 2+ Years Experience in **React & MERN Stack**  
+- ⚡ Passionate about **Clean Code & System Design**  
+- 🥋 Karate | 🌍 Travel | 👨‍💻 Code  
+- 📧 Email: **satyamsawant54@gmail.com**  
 
-🌐 **Portfolio:** https://ss-dev-portfolio.netlify.app  
-📄 **Resume:** https://drive.google.com/file/d/1c9Z3_4N86ZPVrdIpXyuX6aHVns05wxfM/view  
+🌐 **Portfolio:** [ss-dev-portfolio.netlify.app](https://ss-dev-portfolio.netlify.app)  
+📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/1c9Z3_4N86ZPVrdIpXyuX6aHVns05wxfM/view)  
 
 ---
 
@@ -82,32 +82,32 @@
 ## 🚀 Featured Projects
 
 ### 🌍 Travelify – Tour Booking Platform (MERN)
-🔹 Full-stack tour booking system  
-🔹 Admin panel, Tour CRUD, Filters  
-🔹 Responsive UI with Tailwind & Framer Motion  
+- Full-stack tour booking system  
+- Admin panel, Tour CRUD, Filters  
+- Responsive UI with Tailwind & Framer Motion  
 
 **Tech:** React, Node.js, Express, MongoDB  
-🔗 Live: https://ss-dev-portfolio.netlify.app  
-🔗 Repo: https://github.com/SatyamDevGenie  
+🔗 Live: [Portfolio Link](https://ss-dev-portfolio.netlify.app)  
+🔗 Repo: [GitHub Repo](https://github.com/SatyamDevGenie)  
 
 ---
 
 ### 🗳️ Voting Management System
-🔹 Secure voting system with Admin & User roles  
-🔹 JWT authentication & Redux Toolkit  
-🔹 Clean dashboard UI  
+- Secure voting system with Admin & User roles  
+- JWT authentication & Redux Toolkit  
+- Clean dashboard UI  
 
 **Tech:** MERN Stack  
-🔗 Repo: https://github.com/SatyamDevGenie  
+🔗 Repo: [GitHub Repo](https://github.com/SatyamDevGenie)  
 
 ---
 
 ### 💪 FocusIn – Productivity App
-🔹 Task & focus management app  
-🔹 Modern UI with smooth UX  
+- Task & focus management app  
+- Modern UI with smooth UX  
 
 **Tech:** React Native, Node.js  
-🔗 Repo: https://github.com/SatyamDevGenie  
+🔗 Repo: [GitHub Repo](https://github.com/SatyamDevGenie)  
 
 ---
 
