@@ -1,177 +1,192 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=260&section=header&text=Satyam%20Sawant&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20MERN%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Applications&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=280&section=header&text=Satyam%20Sawant&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Building%20Modern%20Web%20Apps&descAlignY=58&descSize=18" />
 </p>
 
-<h1 align="center">🚀 Hey there, I'm Satyam Sawant 👋</h1>
+<h1 align="center">🚀 Hi, I'm Satyam Sawant</h1>
+
+<h3 align="center">Freelance Full Stack Developer | MERN Stack Expert | React & Node.js Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Freelance+Web+Developer;MERN+Stack+Specialist;Full+Stack+Engineer;Turning+Ideas+Into+Scalable+Web+Apps" />
-</p>
-
-<p align="center">
-  <b>👨‍💻 Freelance Web Developer | MERN Stack Specialist | Full Stack Engineer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00CFFF&center=true&vCenter=true&width=750&lines=Freelance+Web+Developer;MERN+Stack+Specialist;Full+Stack+Engineer;Building+Scalable+Business+Solutions;Turning+Ideas+Into+Real+Products" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SatyamDevGenie&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/SatyamDevGenie?label=Followers&style=for-the-badge&color=2563eb" />
+  <img src="https://img.shields.io/github/stars/SatyamDevGenie?label=Stars&style=for-the-badge&color=06b6d4" />
 </p>
 
 ---
 
-## 🌟 About Me
+# 💼 About Me
 
-💡 I transform **ideas into scalable, high-performance web applications** using modern UI and robust backend architecture.
+💡 Passionate developer focused on creating **high-performance**, **scalable**, and **clean architecture** web applications.
 
-- 🔭 Freelance Developer (Upwork & Independent Clients)  
-- 🎓 Full Stack Training from **RST Forum**  
-- 🧠 2+ Years Experience in **React & MERN Stack**  
-- ⚡ Passionate about **Clean Code & System Design**  
-- 🥋 Karate | 🌍 Travel | 👨‍💻 Code  
-- 📧 Email: **satyamsawant54@gmail.com**  
+### 👨‍💻 Professional Summary
 
-🌐 **Portfolio:** [ss-dev-portfolio.netlify.app](https://ss-dev-portfolio.netlify.app)  
-📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/1c9Z3_4N86ZPVrdIpXyuX6aHVns05wxfM/view)  
+- 🔭 Freelance Full Stack Developer  
+- ⚡ 2+ Years Experience in React.js & MERN Stack  
+- 🧠 Strong in Frontend + Backend Development  
+- 🚀 Build SaaS, Dashboards, Admin Panels & APIs  
+- 📈 Performance Optimization & Clean Code  
+- 🤝 Client-Focused Delivery & Communication  
+- 🌍 Open to Remote Jobs & Freelance Projects  
 
 ---
 
-## 💼 What I Can Build For You
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+</p>
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui" />
+</p>
+
+## ⚙ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+## 🔧 Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,render" />
+</p>
+
+---
+
+# 🚀 Services I Offer
 
 ✅ Full Stack MERN Applications  
-✅ Admin Dashboards & Panels  
-✅ REST APIs & Backend Systems  
-✅ Authentication (JWT, Roles, Permissions)  
-✅ CRUD Systems (Tours, Products, Blogs, Users)  
-✅ Optimized React Applications  
+✅ Custom Admin Dashboards  
+✅ REST APIs / Backend Systems  
+✅ Authentication & Authorization  
+✅ E-Commerce Solutions  
+✅ Booking Systems  
+✅ CRM / ERP Panels  
+✅ Portfolio Websites  
+✅ Bug Fixing & Optimization  
 ✅ Deployment & Hosting Setup  
 
-🟢 Clean Code  
-🟢 Scalable Architecture  
-🟢 Industry Best Practices  
+---
+
+# 🌟 Featured Projects
+
+## 🌍 Travelify – Tour Booking Platform
+
+✔ Tour Booking System  
+✔ Admin Dashboard  
+✔ Search / Filters / CRUD  
+✔ Responsive UI  
+
+**Tech Used:** React, Node.js, Express, MongoDB
+
+🔗 Live Demo: https://ss-dev-portfolio.netlify.app  
+🔗 GitHub: https://github.com/SatyamDevGenie
 
 ---
 
-## 🛠 Tech Stack
+## 🗳 Voting Management System
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
-</p>
+✔ Secure Role Based Voting  
+✔ JWT Authentication  
+✔ Redux Toolkit State Management  
+✔ Admin + User Dashboard  
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,materialui" />
-</p>
+**Tech Used:** MERN Stack
 
-### ⚙ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### 🔐 Tools & Auth
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
-
-### ☁ Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,render" />
-</p>
+🔗 GitHub: https://github.com/SatyamDevGenie
 
 ---
 
-## 🚀 Featured Projects
+## 💪 FocusIn – Productivity App
 
-### 🌍 Travelify – Tour Booking Platform (MERN)
-- Full-stack tour booking system  
-- Admin panel, Tour CRUD, Filters  
-- Responsive UI with Tailwind & Framer Motion  
+✔ Daily Task Management  
+✔ Focus Timer  
+✔ Mobile Friendly UI  
+✔ Productivity Features  
 
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 Live: [Portfolio Link](https://ss-dev-portfolio.netlify.app)  
-🔗 Repo: [GitHub Repo](https://github.com/SatyamDevGenie)  
+**Tech Used:** React Native, Node.js
 
----
-
-### 🗳️ Voting Management System
-- Secure voting system with Admin & User roles  
-- JWT authentication & Redux Toolkit  
-- Clean dashboard UI  
-
-**Tech:** MERN Stack  
-🔗 Repo: [GitHub Repo](https://github.com/SatyamDevGenie)  
+🔗 GitHub: https://github.com/SatyamDevGenie
 
 ---
 
-### 💪 FocusIn – Productivity App
-- Task & focus management app  
-- Modern UI with smooth UX  
-
-**Tech:** React Native, Node.js  
-🔗 Repo: [GitHub Repo](https://github.com/SatyamDevGenie)  
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyamDevGenie&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamDevGenie&layout=compact&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SatyamDevGenie&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamDevGenie&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyamDevGenie&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SatyamDevGenie&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SatyamDevGenie&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=SatyamDevGenie&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🧠 My Development Philosophy
+# 🧠 Development Philosophy
 
-> *"Code is not just about making things work,  
-> it’s about making them scalable, readable, and future-proof."*
+> **"Great software is not only functional — it is scalable, maintainable, and built for growth."**
 
-✔ Business-oriented solutions  
-✔ Maintainable architecture  
-✔ Clear communication  
-✔ On-time delivery  
+✔ Clean Architecture  
+✔ Reusable Components  
+✔ Scalable Backend Logic  
+✔ Business-Centered Development  
+✔ Timely Delivery  
 
 ---
 
-## 💬 Daily Dev Motivation
+# 📬 Connect With Me
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<a href="mailto:satyamsawant54@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/satyam-sawant-a257802a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ss-dev-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SatyamDevGenie">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 💼 Currently Open For
 
 <p align="center">
-  <a href="mailto:satyamsawant54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/satyam-sawant-a257802a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://ss-dev-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+
+🔥 Freelance Projects  
+🔥 Remote Full Stack Roles  
+🔥 React / Node.js Opportunities  
+🔥 Startup Collaborations  
+
 </p>
 
 ---
 
 <p align="center">
-  🔥 <b>Open to Freelance Work | Remote Roles | MERN Projects</b> 🔥
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=130&section=footer"/>
 </p>
