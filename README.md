@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divya Satpute</h1>
+<h1 align="center">Hi 👋, I'm Satyam Sawant</h1>
 <div align="center"> <img src="https://github.com/divyasatpute/divyasatpute/blob/main/Aaron%20Loeb.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. In my free time i run my own acommunity at https://chat.whatsapp.com/Ds1RjtNaNjP5cHc5jaw3nK</h3>
 
