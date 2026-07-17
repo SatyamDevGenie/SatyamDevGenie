@@ -1,1 +1,120 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=280&section=header&text=Satyam%20Sawant&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Building%20Modern%20Web%20Apps&descAlignY=58&descSize=18" /> </p> <h1 align="center">🚀 Hi, I'm Satyam Sawant</h1> <h3 align="center">Freelance Full Stack Developer | MERN Stack Expert | React & Node.js Engineer</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00CFFF&center=true&vCenter=true&width=750&lines=Freelance+Web+Developer;MERN+Stack+Specialist;Full+Stack+Engineer;Building+Scalable+Business+Solutions;Turning+Ideas+Into+Real+Products" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SatyamDevGenie&label=Profile%20Views&color=0ea5e9&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/SatyamDevGenie?label=Followers&style=for-the-badge&color=2563eb" /> <img src="https://img.shields.io/github/stars/SatyamDevGenie?label=Stars&style=for-the-badge&color=06b6d4" /> </p> --- # 💼 About Me 💡 Passionate developer focused on creating **high-performance**, **scalable**, and **clean architecture** web applications. ### 👨‍💻 Professional Summary - 🔭 Freelance Full Stack Developer - ⚡ 2+ Years Experience in React.js & MERN Stack - 🧠 Strong in Frontend + Backend Development - 🚀 Build SaaS, Dashboards, Admin Panels & APIs - 📈 Performance Optimization & Clean Code - 🤝 Client-Focused Delivery & Communication - 🌍 Open to Remote Jobs & Freelance Projects --- # 🛠 Tech Stack ## 💻 Languages <p> <img src="https://skillicons.dev/icons?i=js,ts,java,python" /> </p> ## 🎨 Frontend Development <p> <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui" /> </p> ## ⚙ Backend Development <p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" /> </p> ## 🔧 Tools & DevOps <p> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,render" /> </p> --- # 🚀 Services I Offer ✅ Full Stack MERN Applications ✅ Custom Admin Dashboards ✅ REST APIs / Backend Systems ✅ Authentication & Authorization ✅ E-Commerce Solutions ✅ Booking Systems ✅ CRM / ERP Panels ✅ Portfolio Websites ✅ Bug Fixing & Optimization ✅ Deployment & Hosting Setup --- # 🌟 Featured Projects ## 🌍 Travelify – Tour Booking Platform ✔ Tour Booking System ✔ Admin Dashboard ✔ Search / Filters / CRUD ✔ Responsive UI **Tech Used:** React, Node.js, Express, MongoDB 🔗 Live Demo: https://ss-dev-portfolio.netlify.app 🔗 GitHub: https://github.com/SatyamDevGenie --- ## 🗳 Voting Management System ✔ Secure Role Based Voting ✔ JWT Authentication ✔ Redux Toolkit State Management ✔ Admin + User Dashboard **Tech Used:** MERN Stack 🔗 GitHub: https://github.com/SatyamDevGenie --- ## 💪 FocusIn – Productivity App ✔ Daily Task Management ✔ Focus Timer ✔ Mobile Friendly UI ✔ Productivity Features **Tech Used:** React Native, Node.js 🔗 GitHub: https://github.com/SatyamDevGenie --- # 📊 GitHub Analytics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SatyamDevGenie&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamDevGenie&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyamDevGenie&theme=tokyonight&hide_border=true" height="170"/> </p> --- # 🏆 GitHub Trophies <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SatyamDevGenie&theme=algolia&no-frame=true&row=1&column=7" /> </p> --- # 🧠 Development Philosophy > **"Great software is not only functional — it is scalable, maintainable, and built for growth."** ✔ Clean Architecture ✔ Reusable Components ✔ Scalable Backend Logic ✔ Business-Centered Development ✔ Timely Delivery --- # 📬 Connect With Me <p align="center"> <a href="mailto:satyamsawant54@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/satyam-sawant-a257802a7/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://ss-dev-portfolio.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/> </a> <a href="https://github.com/SatyamDevGenie"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> --- # 💼 Currently Open For <p align="center"> 🔥 Freelance Projects 🔥 Remote Full Stack Roles 🔥 React / Node.js Opportunities 🔥 Startup Collaborations </p> --- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=130&section=footer"/> </p>
+<h1 align="center">Hi 👋, I'm Satyam Sawant</h1>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+<h3 align="center">A passionate Full Stack Developer specializing in MERN Stack. Building scalable web applications and turning ideas into real products.</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=SatyamDevGenie&label=Profile%20views&color=0e75b6&style=flat" alt="SatyamDevGenie" /> 
+</p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SatyamDevGenie" alt="SatyamDevGenie" />
+  </a> 
+</p>
+
+- 👨‍💻 All of my projects are available at [https://ss-dev-portfolio.netlify.app](https://ss-dev-portfolio.netlify.app)
+
+- 💼 2+ Years Experience in React.js & MERN Stack Development
+
+- 🚀 I build SaaS Applications, Admin Dashboards, and REST APIs
+
+- 📫 How to reach me **satyamsawant54@gmail.com**
+
+- ⚡ Open to Freelance Projects and Remote Opportunities
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/satyam-sawant-a257802a7/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-sawant" height="30" width="40" />
+</a>
+<a href="https://github.com/SatyamDevGenie" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SatyamDevGenie" height="30" width="40" />
+</a>
+<a href="mailto:satyamsawant54@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+</p>
+
+<br><br>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyamDevGenie&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SatyamDevGenie" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamDevGenie&theme=tokyonight" alt="SatyamDevGenie" />
+</p>
+
+---
+
+## Connect With Me
+
+Let's build amazing web applications together! 💡👨‍💻
+
+### **🔗 Connect with Me Everywhere! 🌍**
+
+📌 **LinkedIn:** [Satyam Sawant](https://www.linkedin.com/in/satyam-sawant-a257802a7/)
+
+📌 **Portfolio:** [https://ss-dev-portfolio.netlify.app](https://ss-dev-portfolio.netlify.app)
+
+📌 **GitHub:** [https://github.com/SatyamDevGenie](https://github.com/SatyamDevGenie)
+
+📌 **Email:** satyamsawant54@gmail.com
+
+💬 Let's connect, collaborate, and grow together in the **Full Stack Development** world! 🚀✨
