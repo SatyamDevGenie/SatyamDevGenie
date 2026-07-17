@@ -1,192 +1,54 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=280&section=header&text=Satyam%20Sawant&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Building%20Modern%20Web%20Apps&descAlignY=58&descSize=18" />
+<h1 align="center">Hi 👋, I'm Divya Satpute</h1>
+<div align="center"> <img src="https://github.com/divyasatpute/divyasatpute/blob/main/Aaron%20Loeb.png"> </div>
+<h3 align="center">A passionate DevOps Engineer From India. In my free time i run my own acommunity at https://chat.whatsapp.com/Ds1RjtNaNjP5cHc5jaw3nK</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasatpute" alt="divyasatpute" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://divyasatpute.github.io/divyasatpute.io/]
+
+- 📝 I regularly write articles on [https://learnwithdivya.hashnode.dev/](https://learnwithdivya.hashnode.dev/)
+
+- 📫 How to reach me **teacode1122@gmail.com** or **divyasatpute822@gmail.com**
+
+- 📄 Know about my experiences (https://drive.google.com/file/d/1j77IK-Lbn6RrMYgOA-RCstRlOiRCvhCH/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/divya-satpute?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divya-satpute/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_divya_satpute_1122?igsh=YmVlMmRtbWJ3cjJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_satpute_1122" height="30" width="40" /></a>
+<a href="https://hashnode.com/@divya1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@divya1122" height="30" width="40" /></a>
+<a href="https://youtube.com/@teacode-1122?si=Zedl9euVntwRjOiR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@teacode-1122" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">🚀 Hi, I'm Satyam Sawant</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<h3 align="center">Freelance Full Stack Developer | MERN Stack Expert | React & Node.js Engineer</h3>
+<h3 align="left">Support:</h3>
+<p><a href="https://buymeacoffee.com/teacode112f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/teacode112f" /></a></p><br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00CFFF&center=true&vCenter=true&width=750&lines=Freelance+Web+Developer;MERN+Stack+Specialist;Full+Stack+Engineer;Building+Scalable+Business+Solutions;Turning+Ideas+Into+Real+Products" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasatpute&show_icons=true&locale=en&layout=compact" alt="divyasatpute" /></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SatyamDevGenie&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/SatyamDevGenie?label=Followers&style=for-the-badge&color=2563eb" />
-  <img src="https://img.shields.io/github/stars/SatyamDevGenie?label=Stars&style=for-the-badge&color=06b6d4" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyasatpute&" alt="divyasatpute" /></p>
 
----
+ # Connect With Me
+  
+Let’s build an amazing DevOps & Cloud community together! 💡👩‍💻
+### **🔗 Connect with Me Everywhere! 🌍**  
 
-# 💼 About Me
+📌 **LinkedIn:** [Divya Satpute](https://www.linkedin.com/in/divya-satpute-68666a300/)  
 
-💡 Passionate developer focused on creating **high-performance**, **scalable**, and **clean architecture** web applications.
+📌 **Instagram (DevOps Content):** [@teacode1122](https://www.instagram.com/teacode1122/) 
 
-### 👨‍💻 Professional Summary
+📌 **GitHub:** https://github.com/divyasatpute/vprofile-awsliftshift-project 
 
-- 🔭 Freelance Full Stack Developer  
-- ⚡ 2+ Years Experience in React.js & MERN Stack  
-- 🧠 Strong in Frontend + Backend Development  
-- 🚀 Build SaaS, Dashboards, Admin Panels & APIs  
-- 📈 Performance Optimization & Clean Code  
-- 🤝 Client-Focused Delivery & Communication  
-- 🌍 Open to Remote Jobs & Freelance Projects  
+📌 **Hashnode (Technical Blogs):** https://learnwithdivya.hashnode.dev/
 
----
+📌 **TeaCode Website:** https://teacode1122.vercel.app/
 
-# 🛠 Tech Stack
+📌 **YouTube (Teacode - DevOps Learning):** https://www.youtube.com/@Teacode-1122
 
-## 💻 Languages
+💬 Let’s connect, collaborate, and grow together in the **DevOps & Cloud** world! 🚀✨  
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
-</p>
 
-## 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui" />
-</p>
-
-## ⚙ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-## 🔧 Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,render" />
-</p>
-
----
-
-# 🚀 Services I Offer
-
-✅ Full Stack MERN Applications  
-✅ Custom Admin Dashboards  
-✅ REST APIs / Backend Systems  
-✅ Authentication & Authorization  
-✅ E-Commerce Solutions  
-✅ Booking Systems  
-✅ CRM / ERP Panels  
-✅ Portfolio Websites  
-✅ Bug Fixing & Optimization  
-✅ Deployment & Hosting Setup  
-
----
-
-# 🌟 Featured Projects
-
-## 🌍 Travelify – Tour Booking Platform
-
-✔ Tour Booking System  
-✔ Admin Dashboard  
-✔ Search / Filters / CRUD  
-✔ Responsive UI  
-
-**Tech Used:** React, Node.js, Express, MongoDB
-
-🔗 Live Demo: https://ss-dev-portfolio.netlify.app  
-🔗 GitHub: https://github.com/SatyamDevGenie
-
----
-
-## 🗳 Voting Management System
-
-✔ Secure Role Based Voting  
-✔ JWT Authentication  
-✔ Redux Toolkit State Management  
-✔ Admin + User Dashboard  
-
-**Tech Used:** MERN Stack
-
-🔗 GitHub: https://github.com/SatyamDevGenie
-
----
-
-## 💪 FocusIn – Productivity App
-
-✔ Daily Task Management  
-✔ Focus Timer  
-✔ Mobile Friendly UI  
-✔ Productivity Features  
-
-**Tech Used:** React Native, Node.js
-
-🔗 GitHub: https://github.com/SatyamDevGenie
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SatyamDevGenie&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamDevGenie&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SatyamDevGenie&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SatyamDevGenie&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-# 🧠 Development Philosophy
-
-> **"Great software is not only functional — it is scalable, maintainable, and built for growth."**
-
-✔ Clean Architecture  
-✔ Reusable Components  
-✔ Scalable Backend Logic  
-✔ Business-Centered Development  
-✔ Timely Delivery  
-
----
-
-# 📬 Connect With Me
-
-<p align="center">
-<a href="mailto:satyamsawant54@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/satyam-sawant-a257802a7/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://ss-dev-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SatyamDevGenie">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 💼 Currently Open For
-
-<p align="center">
-
-🔥 Freelance Projects  
-🔥 Remote Full Stack Roles  
-🔥 React / Node.js Opportunities  
-🔥 Startup Collaborations  
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=130&section=footer"/>
-</p>
